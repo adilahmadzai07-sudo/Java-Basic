@@ -2,7 +2,7 @@ package celsiustofahrenheit;
 import java.util.Scanner;
 /**
  *
- * @author ahmad-yahya-zakiri
+ * @author Adil Ahmadzai
  * Date: 4/11/2025
  */
 public class CelsiusToFahrenheit {

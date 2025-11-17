@@ -2,7 +2,7 @@ package areaofpentagon;
 import java.util.Scanner;
 /**
  *
- * @author ahmad-yahya-zakiri
+ * @author Adil Ahmadzai
  */
 public class AreaOfPentagon {
 
